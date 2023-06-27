@@ -1,6 +1,13 @@
-# Content v2 Minimal Starter
+# DevLogic
+DevLogic is an accessible, crowd-sourced repository of engineering knowledge - housing how developers are building and implementing different features across platforms.
 
-Look at the [Content documentation](https://content-v2.nuxtjs.org/) to learn more.
+The goal is to build a wealth of knowledge that would help improve the thinking and problem solving of developers from junior to mid and seniors with the kinds of problems they are able to solve.
+
+## Content Contribution
+While the development is ongoing, we are able to gather content set in the `content` folder. If you are ready to start sharing your wealth of knowledge, you can already start sending in PRs. 
+
+### Contribution Guide
+Additional content contribution guidelines can be found in [.contributing.md](./contributing.md)
 
 ## Setup
 
