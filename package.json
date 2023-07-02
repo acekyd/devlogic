@@ -4,7 +4,8 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@heroicons/vue": "^2.0.18",
@@ -13,5 +14,8 @@
     "@tailwindcss/typography": "^0.5.9",
     "@types/node": "^18.15.12",
     "nuxt": "^3.5.2"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
